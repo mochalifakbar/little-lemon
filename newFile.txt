@@ -1,1 +1,5 @@
 hello welt
+
+Refresh the GitHub repository page to check that the pushed file appears. 
+
+Edit the file on GitHub, add some text and commit the changes.
